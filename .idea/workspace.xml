@@ -4,125 +4,129 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="015f68fc-aec2-4581-ba3e-ae4688781aae" name="Changes" comment="" />
+    <list default="true" id="015f68fc-aec2-4581-ba3e-ae4688781aae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Advanced-Gas-Dynamics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Advanced-Gas-Dynamics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standard_atmosphere.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/standard_atmosphere.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="2" />
+    <option name="cachedIndexableFilesCount" value="30" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "aaguenther"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aaguenther&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/aaguenther/Advanced-Gas-Dynamics",
-    "accountId": "e35ac6d1-2fbc-454c-8cbd-8b423a9f0072"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aaguenther/Advanced-Gas-Dynamics&quot;,
+    &quot;accountId&quot;: &quot;e35ac6d1-2fbc-454c-8cbd-8b423a9f0072&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="2.5347791198785383E-21" />
-      <entry key="MS500" value="1.6110306939267255E-4" />
-      <entry key="S2" value="0.6267019796899677" />
-      <entry key="S5" value="4.11129091419437" />
-      <entry key="S10" value="9.183431736881492" />
-      <entry key="S30" value="21.996038563197416" />
-      <entry key="S60" value="31.204649465514596" />
-      <entry key="M2" value="38.295700871903" />
-      <entry key="M5" value="43.74214540285406" />
-      <entry key="M10" value="45.80226227613967" />
-      <entry key="M15" value="46.51905973914088" />
-      <entry key="M30" value="47.251512510061346" />
-      <entry key="H1" value="47.6237278331637" />
-      <entry key="H2" value="47.81135376814873" />
-      <entry key="H4" value="47.90554896453109" />
-      <entry key="D1" value="47.98424036159577" />
-      <entry key="W1" value="47.99774818676218" />
-    </decayedCancelled>
-    <decayedSelected>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000027546192" />
-      <entry key="S5" value="1.0003767251576727" />
-      <entry key="S10" value="1.019409408998542" />
-      <entry key="S30" value="1.2687431709753236" />
-      <entry key="S60" value="1.5184044472950864" />
-      <entry key="M2" value="1.7200030883927413" />
-      <entry key="M5" value="1.8768670354740757" />
-      <entry key="M10" value="1.936411787342554" />
-      <entry key="M15" value="1.957145395794227" />
-      <entry key="M30" value="1.9783380784750375" />
-      <entry key="H1" value="1.989109740360005" />
-      <entry key="H2" value="1.9945399641844488" />
-      <entry key="H4" value="1.9972662453850765" />
-      <entry key="D1" value="1.9995438543750252" />
-      <entry key="W1" value="1.9999348235967835" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0000000000034832" />
+      <entry key="M2" value="1.0000156663772624" />
+      <entry key="M5" value="1.181593721640716" />
+      <entry key="M10" value="5.247538072921395" />
+      <entry key="M15" value="13.192190818205423" />
+      <entry key="M30" value="36.060116904459434" />
+      <entry key="H1" value="60.49371222120993" />
+      <entry key="H2" value="78.51258977546556" />
+      <entry key="H4" value="89.4791272550105" />
+      <entry key="D1" value="99.79624846838469" />
+      <entry key="W1" value="101.68218931125006" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="1.444865740826986E-155" />
+      <entry key="S10" value="3.869918916686285E-78" />
+      <entry key="S30" value="2.012336901722933E-26" />
+      <entry key="S60" value="2.1978869827690422E-13" />
+      <entry key="M2" value="8.990485160240473E-7" />
+      <entry key="M5" value="0.009585783872920263" />
+      <entry key="M10" value="0.21725085714384468" />
+      <entry key="M15" value="0.6169091306963173" />
+      <entry key="M30" value="1.7547872102649889" />
+      <entry key="H1" value="2.961451348411478" />
+      <entry key="H2" value="3.8478148973004775" />
+      <entry key="H4" value="4.3861785708987595" />
+      <entry key="D1" value="4.892024079625802" />
+      <entry key="W1" value="4.984429943815057" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.52624308281769E-14" />
-      <entry key="MS500" value="0.0020671084303834487" />
-      <entry key="S2" value="0.8340301668269751" />
-      <entry key="S5" value="4.641724842021378" />
-      <entry key="S10" value="9.925215937675159" />
-      <entry key="S30" value="23.137757093373068" />
-      <entry key="S60" value="32.64411662526507" />
-      <entry key="M2" value="39.96982924385146" />
-      <entry key="M5" value="45.598621180848916" />
-      <entry key="M10" value="47.72808578018602" />
-      <entry key="M15" value="48.46905469690021" />
-      <entry key="M30" value="49.22622845032113" />
-      <entry key="H1" value="49.61101455861598" />
-      <entry key="H2" value="49.804979211027515" />
-      <entry key="H4" value="49.90235719234976" />
-      <entry key="D1" value="49.98370777428879" />
-      <entry key="W1" value="49.9976720875331" />
+      <entry key="MS100" value="0.8827029962906549" />
+      <entry key="MS500" value="0.9753554615276419" />
+      <entry key="S2" value="0.9937810933225548" />
+      <entry key="S5" value="0.9975077808975293" />
+      <entry key="S10" value="0.9987531130852756" />
+      <entry key="S30" value="0.9995841981612189" />
+      <entry key="S60" value="0.9997920774684136" />
+      <entry key="M2" value="0.9999125806922402" />
+      <entry key="M5" value="1.1910574137700296" />
+      <entry key="M10" value="5.463838205446951" />
+      <entry key="M15" value="13.807313600334936" />
+      <entry key="M30" value="37.81235852826123" />
+      <entry key="H1" value="63.453010259395185" />
+      <entry key="H2" value="82.35900377083475" />
+      <entry key="H4" value="93.86450677033376" />
+      <entry key="D1" value="104.6881239175765" />
+      <entry key="W1" value="106.66659761865647" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3KVSqfGQpxSUGes6DmOVeW2sEMM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Mach_4_Tunnel_Design.executor": "Run",
-    "Python.Mach_4_tunnel_design_check_V2.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Mach_4_Tunnel_Design.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mach_4_tunnel_design_check_V2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

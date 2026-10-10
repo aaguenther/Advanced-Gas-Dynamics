@@ -1,3 +1,5 @@
+# FROM https://www.grc.nasa.gov/www/k-12/airplane/atmosmet.html
+
 import math as m
 
 def T_std_atm (h):
