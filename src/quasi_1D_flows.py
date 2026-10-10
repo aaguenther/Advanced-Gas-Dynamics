@@ -1,0 +1,20 @@
+from scipy.optimize import brentq
+
+def area_mach_relation (A, A_star, gamma, branch):
+    """Function to compute either supersonic or subsonic mach number solution for a given area ratio and gamma"""
+    area_ratio = A/A_star
+
+    def f(mach):
+        return area_ratio - (1 / mach) * ((2 / (gamma + 1)) * (1 + ((gamma - 1) / 2) * mach**2)) ** ((gamma + 1) / (2 * (gamma - 1)))
+
+    if branch == "subsonic":
+        M = brentq(f, 1E-6, 0.999)
+    elif branch == "supersonic":
+        M = brentq(f, 1.001, 10)
+    else:
+        print("branch must be 'supersonic' or 'subsonic'")
+        return None
+
+    return M
+
+

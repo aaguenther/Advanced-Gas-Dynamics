@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="015f68fc-aec2-4581-ba3e-ae4688781aae" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="2" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aaguenther"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aaguenther/Advanced-Gas-Dynamics",
+    "accountId": "e35ac6d1-2fbc-454c-8cbd-8b423a9f0072"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.5347791198785383E-21" />
+      <entry key="MS500" value="1.6110306939267255E-4" />
+      <entry key="S2" value="0.6267019796899677" />
+      <entry key="S5" value="4.11129091419437" />
+      <entry key="S10" value="9.183431736881492" />
+      <entry key="S30" value="21.996038563197416" />
+      <entry key="S60" value="31.204649465514596" />
+      <entry key="M2" value="38.295700871903" />
+      <entry key="M5" value="43.74214540285406" />
+      <entry key="M10" value="45.80226227613967" />
+      <entry key="M15" value="46.51905973914088" />
+      <entry key="M30" value="47.251512510061346" />
+      <entry key="H1" value="47.6237278331637" />
+      <entry key="H2" value="47.81135376814873" />
+      <entry key="H4" value="47.90554896453109" />
+      <entry key="D1" value="47.98424036159577" />
+      <entry key="W1" value="47.99774818676218" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000027546192" />
+      <entry key="S5" value="1.0003767251576727" />
+      <entry key="S10" value="1.019409408998542" />
+      <entry key="S30" value="1.2687431709753236" />
+      <entry key="S60" value="1.5184044472950864" />
+      <entry key="M2" value="1.7200030883927413" />
+      <entry key="M5" value="1.8768670354740757" />
+      <entry key="M10" value="1.936411787342554" />
+      <entry key="M15" value="1.957145395794227" />
+      <entry key="M30" value="1.9783380784750375" />
+      <entry key="H1" value="1.989109740360005" />
+      <entry key="H2" value="1.9945399641844488" />
+      <entry key="H4" value="1.9972662453850765" />
+      <entry key="D1" value="1.9995438543750252" />
+      <entry key="W1" value="1.9999348235967835" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.52624308281769E-14" />
+      <entry key="MS500" value="0.0020671084303834487" />
+      <entry key="S2" value="0.8340301668269751" />
+      <entry key="S5" value="4.641724842021378" />
+      <entry key="S10" value="9.925215937675159" />
+      <entry key="S30" value="23.137757093373068" />
+      <entry key="S60" value="32.64411662526507" />
+      <entry key="M2" value="39.96982924385146" />
+      <entry key="M5" value="45.598621180848916" />
+      <entry key="M10" value="47.72808578018602" />
+      <entry key="M15" value="48.46905469690021" />
+      <entry key="M30" value="49.22622845032113" />
+      <entry key="H1" value="49.61101455861598" />
+      <entry key="H2" value="49.804979211027515" />
+      <entry key="H4" value="49.90235719234976" />
+      <entry key="D1" value="49.98370777428879" />
+      <entry key="W1" value="49.9976720875331" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KVSqfGQpxSUGes6DmOVeW2sEMM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Mach_4_Tunnel_Design.executor": "Run",
+    "Python.Mach_4_tunnel_design_check_V2.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="015f68fc-aec2-4581-ba3e-ae4688781aae" name="Changes" comment="" />
+      <created>1791641434308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791641434308</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
